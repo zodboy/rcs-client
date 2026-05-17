@@ -1,0 +1,26 @@
+# Rust
+src-tauri/target/
+src-tauri/gen/
+
+# Node.js
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Tauri
+src-tauri/icons/**/*.png
+!src-tauri/icons/icon.png
