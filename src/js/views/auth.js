@@ -6,7 +6,7 @@ import { t, getLang, onLangChange } from "../i18n.js";
 import { ApiClient } from "../api.js";
 import { saveSession } from "../session.js";
 
-const REG_URL = "https://tauri2.buzz/register";
+const REG_URL = "https://rcs.buzz/register";
 
 const LOGO_SVG = `
 <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">

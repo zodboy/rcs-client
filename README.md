@@ -110,7 +110,7 @@ Push to `main` / `master` triggers the [release workflow](.github/workflows/rele
 3. **Open RCS Client** → enter your VPS endpoint (e.g. `https://your-vps.example.com:8090`), key ID, and secret
 4. **Done** — the client verifies the HMAC, loads your tier info, and opens the dashboard
 
-> **Don't have a subscription?** Register at [tauri2.buzz](https://tauri2.buzz) to get your key.
+> **Don't have a subscription?** Register at [rcs.buzz](https://rcs.buzz) to get your key.
 
 ## About
 
@@ -202,7 +202,7 @@ npm run tauri build
 3. **打开 RCS Client** → 输入你的 VPS 地址（如 `https://your-vps.example.com:8090`）、Key ID、密钥
 4. **完成** — 客户端验证 HMAC 签名，加载档位信息，进入面板
 
-> **还没有订阅？** 去 [tauri2.buzz](https://tauri2.buzz) 注册获取密钥。
+> **还没有订阅？** 去 [rcs.buzz](https://rcs.buzz) 注册获取密钥。
 
 ## 关于
 
