@@ -12,10 +12,10 @@ import { de } from "../i18n/de.js";
 export const LANGUAGES = [
   { code: "en", label: "English",   native: "English",  status: "full"  },
   { code: "zh", label: "Chinese",   native: "中文",      status: "full"  },
-  { code: "es", label: "Spanish",   native: "Español",   status: "stub" },
-  { code: "ja", label: "Japanese",  native: "日本語",    status: "stub" },
-  { code: "fr", label: "French",    native: "Français",  status: "stub" },
-  { code: "de", label: "German",    native: "Deutsch",   status: "stub" },
+  { code: "es", label: "Spanish",   native: "Español",   status: "full" },
+  { code: "ja", label: "Japanese",  native: "日本語",    status: "full" },
+  { code: "fr", label: "French",    native: "Français",  status: "full" },
+  { code: "de", label: "German",    native: "Deutsch",   status: "full" },
 ];
 
 const TABLES = { en, zh, es, ja, fr, de };
